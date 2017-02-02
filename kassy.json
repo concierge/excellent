@@ -1,0 +1,8 @@
+{
+    "name": "excellent",
+    "version": 1.0,
+    "startup": "excellent.js",
+    "help": [
+        ["excellent", "Exxxcccceeelllleeeennnt.", "Very Exxxcccceeelllleeeennnt"]
+    ]
+}
